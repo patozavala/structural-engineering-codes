@@ -1,3 +1,9 @@
+"""
+author : Patricio Zavala Fuenzalida
+year   : 2019
+"""
+
+
 import numpy as np
 import matplotlib.pylab as plt
 
